@@ -1,0 +1,39 @@
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\appsettings.Development.json
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\appsettings.json
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\Storage Account Blob image demo.staticwebassets.runtime.json
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\Storage Account Blob image demo.exe
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\Storage Account Blob image demo.deps.json
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\Storage Account Blob image demo.runtimeconfig.json
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\Storage Account Blob image demo.dll
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\Storage Account Blob image demo.pdb
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.AssemblyInfoInputs.cache
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.AssemblyInfo.cs
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.csproj.CoreCompileInputs.cache
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.MvcApplicationPartsAssemblyInfo.cache
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.RazorAssemblyInfo.cache
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.RazorAssemblyInfo.cs
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\staticwebassets\msbuild.Storage Account Blob image demo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\staticwebassets\msbuild.build.Storage Account Blob image demo.props
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Storage Account Blob image demo.props
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Storage Account Blob image demo.props
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\scopedcss\bundle\Storage Account Blob image demo.styles.css
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\scopedcss\projectbundle\Storage Account Blob image demo.bundle.scp.css
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.dll
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\refint\Storage Account Blob image demo.dll
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.pdb
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.genruntimeconfig.cache
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\ref\Storage Account Blob image demo.dll
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\Azure.Core.dll
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\Azure.Storage.Common.dll
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\Flurl.dll
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\System.IO.Hashing.dll
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.csproj.AssemblyReference.cache
+E:\Dev ASP.NET\Anotações Azure\Storage Account Blob image demo\Storage Account Blob image demo\obj\Debug\net6.0\Storage Account Blob image demo.csproj.CopyComplete

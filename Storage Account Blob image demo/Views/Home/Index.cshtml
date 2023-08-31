@@ -1,0 +1,59 @@
+﻿@model Storage_Account_Blob_image_demo.Models.Arquivo
+
+
+<head>
+    <link rel="stylesheet" href="~/css/produto-cadatro.css">
+</head>
+
+@*creditos pelo form: https://bbbootstrap.com/snippets/bootstrap-5-trendy-student-registration-form-58584232*@
+<div class="wrapper rounded bg-white">
+
+    <div class="h3">Enviar arquivo para Blob Storage</div>
+    <vc:Summary></vc:Summary>
+
+    <form enctype="multipart/form-data" method="post" asp-action="Add">
+
+        <div class="row">
+            <div class="col-md-6 mt-md-0 mt-3">
+                <label>Imagem</label>
+
+                <input type="file" asp-for="FileUpload" onchange="readURL(this);" class="form-control" required>
+                <label data-browse="Procurar" style="width: 400px" class="custom-file-label" for="FileUpload"></label>
+                <label style="display: none" id="img_nome"></label>
+
+                <img id="mostra-imagem" style="display:none; width: 100%;" src="#" alt="your image" />
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Salvar</button>
+    </form>
+
+</div>
+
+@section Scripts {
+
+    <script>
+        $("#ImagemViewUpload").change(function () {
+            $("#img_nome").text(this.files[0].name);
+            $("#img_nome")[0].style.display = 'block';
+        });
+
+        $("#ImagemViewUpload").attr("data-val", "true");
+        $("#ImagemViewUpload").attr("data-val-required", "Preencha o campo Imagem");
+
+
+        function readURL(input) {
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+
+                reader.onload = function(e) {
+                    $("#mostra-imagem")[0].style.display = 'block';
+                    $('#mostra-imagem').attr('src', e.target.result).width(150).height(200);
+
+                };
+
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+    </script>
+
+}

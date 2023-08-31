@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Storage_Account_Blob_image_demo.Models.FileData>
+
+
+@{
+
+}
+
+
+<div class="container-fluid mt-50">
+
+    @*credit buttons : https://bbbootstrap.com/snippets/skew-buttons-17083405*@
+    <div class="row">
+        <div class="card-block text-center">
+            <a class="btn btn-primary btn-skew" asp-action="Add" asp-controller="Home">AddFile</a>
+        </div>
+    </div>
+
+    <br />
+
+    @*//credit table : https://bbbootstrap.com/snippets/product-list-animated-icons-and-discount-badge-70756656*@
+    @if (@Model.Any())
+    {
+        <div class="row">
+
+            @foreach (var file in @Model)
+            {
+
+
+                <div class="col-md-4">
+
+                    <div class="product-card mb-30">
+                        @{
+                            if (Model.Any())
+                            {
+                                <div class="product-badge bg-warning text-body">File</div>
+                                <a class="product-thumb" href="#" data-abc="true">
+                                    @if (!string.IsNullOrEmpty(@file.Url))
+                                    {
+                                        switch ((int)@file.FileType)
+                                        {
+                                            case 0:
+                                                <img src="@file.Url" alt="File" style="max-width:100%;max-height:100%;">
+                                                break;
+                                            case 1:
+                                                <img src="https://images.freeimages.com/fic/images/icons/734/phuzion/256/wmp.png" alt="File" style="max-width:50%;max-height:50%;">
+                                                break;
+                                            case 2:
+                                                <img src="https://images.freeimages.com/fic/images/icons/734/phuzion/256/hdd_audio.png" alt="File" style="max-width:50%;max-height:50%;">
+                                                break;
+                                            case 3:
+                                                <img src="https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png" alt="File" style="max-width:50%;max-height:50%;">
+                                                break;  
+
+                                        }
+
+                                    }
+
+                                </a>
+                            }
+                         }
+
+                    </div>
+                </div>
+
+            }
+        </div>
+    }
+
+       
+ </div>
